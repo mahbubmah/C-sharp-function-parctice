@@ -1,0 +1,6 @@
+c:\users\mjs\documents\visual studio 2013\Projects\DeligatesApp\DeligatesApp\bin\Debug\DeligatesApp.exe.config
+c:\users\mjs\documents\visual studio 2013\Projects\DeligatesApp\DeligatesApp\bin\Debug\DeligatesApp.exe
+c:\users\mjs\documents\visual studio 2013\Projects\DeligatesApp\DeligatesApp\bin\Debug\DeligatesApp.pdb
+c:\users\mjs\documents\visual studio 2013\Projects\DeligatesApp\DeligatesApp\obj\Debug\DeligatesApp.csprojResolveAssemblyReference.cache
+c:\users\mjs\documents\visual studio 2013\Projects\DeligatesApp\DeligatesApp\obj\Debug\DeligatesApp.exe
+c:\users\mjs\documents\visual studio 2013\Projects\DeligatesApp\DeligatesApp\obj\Debug\DeligatesApp.pdb
